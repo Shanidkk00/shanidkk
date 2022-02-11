@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/josprojects/tgmoviebot",
-    "repository": "https://github.com/Shanidkk00/tgmoviebot",
+    "repository": "https://github.com/Shanidkk00/shanidkk",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
